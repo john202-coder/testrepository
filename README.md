@@ -1,6 +1,0 @@
-"# week-3-repository" 
-"# week-3-repository" 
-"# Week4Homework" 
-"# week5" 
-"# week6" 
-"# pet-store" 
